@@ -28,8 +28,8 @@
 <p align="left">
 <a href="https://github.com/rhehan7">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=rhehan7&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=rhehan7&show_icons=true&locale=en&layout=compact">  
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rhehan7&" alt="streak-stats"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=rhehan7&show_icons=true&theme=dark&locale=en&layout=compact">  
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rhehan7&theme=dark" alt="streak-stats"/>
 </a>
 </p>
 
