@@ -28,7 +28,7 @@
 <p align="left">
 <a href="https://github.com/rhehan7">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=rhehan7&show_icons=true&theme=dark&locale=en&layout=compact">  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rhehan7&show_icons=true&locale=en""/>  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rhehan7&show_icons=true&theme=dark&locale=en"/>  
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rhehan7&theme=dark" alt="streak-stats"/>
 </a>
 </p>
